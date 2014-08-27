@@ -1,0 +1,19 @@
+<suite name="My suite">
+
+  
+  <test name="GoogleTest">
+    <classes>
+        <class name="jen.GoogleTest" ></class>  
+    </classes>
+</test>
+  
+  <test name="YahooTest">
+    <classes>
+        <class name="jen.YahooTest" ></class>  
+    </classes>
+</test>
+  
+   
+   
+  
+</suite>

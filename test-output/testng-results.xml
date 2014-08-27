@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My suite" duration-ms="38528" started-at="2014-08-27T14:23:26Z" finished-at="2014-08-27T14:24:04Z">
+    <groups>
+    </groups>
+    <test name="GoogleTest" duration-ms="17983" started-at="2014-08-27T14:23:26Z" finished-at="2014-08-27T14:23:44Z">
+      <class name="jen.GoogleTest">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:jen.GoogleTest@3cb5cdba]" name="testGoogle" duration-ms="17972" started-at="2014-08-27T15:23:26Z" finished-at="2014-08-27T15:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+      </class> <!-- jen.GoogleTest -->
+    </test> <!-- GoogleTest -->
+    <test name="YahooTest" duration-ms="20494" started-at="2014-08-27T14:23:44Z" finished-at="2014-08-27T14:24:04Z">
+      <class name="jen.YahooTest">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:jen.YahooTest@71be98f5]" name="testGoogle" duration-ms="20493" started-at="2014-08-27T15:23:44Z" finished-at="2014-08-27T15:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+      </class> <!-- jen.YahooTest -->
+    </test> <!-- YahooTest -->
+  </suite> <!-- My suite -->
+</testng-results>
