@@ -19,7 +19,7 @@ public class GoogleTest{
 		Thread.sleep(1000L);
 		//driver.findElement(By.xpath("//*[@id='body']/center/div[2]")).sendKeys("selenium");
 		
-		driver.quit();
+		
 	}
   
 }
